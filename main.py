@@ -4,5 +4,5 @@ if __name__ == "__main__":
     print("App:\n")
 
     app = App()
-    app.load_data()
-    # app.one_run()
+    app.run()
+    # app.once_run()
